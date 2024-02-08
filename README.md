@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SAMRIK_SETG
+- 👋 Hi, I’m @SAMRIK_SETH
 - 👀 I’m interested in APP DEVELOPMENT
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on 
