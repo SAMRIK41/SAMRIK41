@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SAMRIK_SETH
 - 👀 I’m interested in APP DEVELOPMENT
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on 
 - 📫 Reach me: samrikseth.codeworks@gmail.com
 <!---
