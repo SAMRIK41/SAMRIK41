@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SAMRIK_SETH
-- 👀 I’m interested in APP DEVELOPMENT
+- 👀 I’m interested in SOFTWARE DEVELOPMENT
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on 
 - 📫 Reach me: samrikseth.codeworks@gmail.com
