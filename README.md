@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SAMRIK_SETH
 - 👀 I’m interested in SOFTWARE DEVELOPMENT
 - 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking for job
 - 📫 Reach me: samrikseth.codeworks@gmail.com
 <!---
 SAMRIK41/SAMRIK41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
